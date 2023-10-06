@@ -1,0 +1,16 @@
+{
+  "name": "project---final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Smart_Lighting_Upload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hazratomar Hassanzada",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3",
+    "mqtt": "^5.0.5"
+  }
+}
